@@ -13,11 +13,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataSet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
+            <state relative-caret-position="527">
+              <caret line="207" column="37" selection-start-line="207" selection-start-column="37" selection-end-line="207" selection-end-column="37" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
                 <element signature="e#270#1706#0" />
+                <element signature="e#1693#242953#0" />
+                <element signature="e#2334#3345#0" />
+                <element signature="e#3384#3712#0" />
                 <element signature="e#3405#3576#0" />
                 <element signature="e#3645#3665#0" />
               </folding>
@@ -26,10 +29,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataFiles/Car.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataFiles/Customer.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -38,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/DataFiles/Address.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -62,9 +74,10 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/CreateCustomer.py" />
         <option value="$PROJECT_DIR$/Doku" />
-        <option value="$PROJECT_DIR$/DataSet.py" />
-        <option value="$PROJECT_DIR$/DataFiles/Customer.txt" />
         <option value="$PROJECT_DIR$/DataFiles/Address.txt" />
+        <option value="$PROJECT_DIR$/DataFiles/Customer.txt" />
+        <option value="$PROJECT_DIR$/DataSet.py" />
+        <option value="$PROJECT_DIR$/DataFiles/Car.txt" />
       </list>
     </option>
   </component>
@@ -103,6 +116,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/DataFiles" />
     </key>
   </component>
@@ -168,7 +182,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.32865497" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.32865497" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3992891" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -204,9 +218,6 @@
     <entry file="file://$PROJECT_DIR$/DataFiles/Car_dealer.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataFiles/Car.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CreateCustomer.py" />
     <entry file="file://$PROJECT_DIR$/DataFiles/washington-dc.osm.streets.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -222,14 +233,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataFiles/Customer.txt">
+    <entry file="file://$PROJECT_DIR$/washington_streets.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+        <state relative-caret-position="210">
+          <caret column="2378" lean-forward="true" selection-end-column="241264" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataFiles/Address.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataFiles/Customer.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataFiles/Car.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
@@ -238,11 +263,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataSet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
+        <state relative-caret-position="527">
+          <caret line="207" column="37" selection-start-line="207" selection-start-column="37" selection-end-line="207" selection-end-column="37" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
             <element signature="e#270#1706#0" />
+            <element signature="e#1693#242953#0" />
+            <element signature="e#2334#3345#0" />
+            <element signature="e#3384#3712#0" />
             <element signature="e#3405#3576#0" />
             <element signature="e#3645#3665#0" />
           </folding>

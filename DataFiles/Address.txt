@@ -1,1 +1,31 @@
-ID;State;City
+ID;State;City;Street;Number
+200000;Virginia;Richmond;Blade Green Road
+200001;Arkansas;Little Rock;Parkway Terrace Drive
+200002;New York;Albany;Meadowside Way
+200003;Nebraska;Lincoln;Oak Run Drive
+200004;Kentucky;Frankfort;Deerhurst Boulevard
+200005;Wisconsin;Madison;Sea View Road
+200006;New Mexico;Santa Fe;Snowfall Square
+200007;North Dakota;Bismarck;Freeport Drive
+200008;Arizona;Phoenix;Battersea Drive
+200009;Wisconsin;Madison;Turner Farm Alley
+200000;Wyoming;Cheyenne;Tusculum Square
+200001;New Hampshire;Concord;Marthas Drive
+200002;Missouri;Jefferson City;Calais Boulevard
+200003;Delaware;Dover;Kyle Lane
+200004;Rhoda Island;Providence;Forest Wood Boulevard
+200005;Delaware;Dover;Greyrock Avenue
+200006;New York;Albany;Raleigh Boulevard
+200007;California;Sacramento;Perkins Square
+200008;New Jersey;Trenton;Hickory Knoll Boulevard
+200009;Missouri;Jefferson City;Chestnut Knolls Boulevard
+200000;Utah;Salt Lake City;Laurel Leaves Lane
+200001;Michigan;Lansing;Gingrich Place
+200002;Michigan;Lansing;Marilyn Avenue
+200003;Minnesota;St. Paul;Zetts Drive
+200004;Iowa;Des Monies;Delsignore Place
+200005;Illinios;Springfield;Capel Lane
+200006;New Jersey;Trenton;Orwood Lane
+200007;Texas;Austin;Branch Side Avenue
+200008;Louisiana;Baton Rouge;Mosby Alley
+200009;Kansas;Topeka;Soil Conservation Way
